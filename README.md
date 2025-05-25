@@ -21,6 +21,9 @@
 
 1. Κατεβάστε το repository ή κάντε clone στο τοπικό σας μηχάνημα.  
 2. Ανοίξτε το αρχείο `index.html` με έναν browser (Google Chrome, Firefox, Edge, κλπ).  
-3. Δείτε το project να λειτουργεί στον browser σας.  
+3. Δείτε το project να λειτουργεί στον browser σας.
+## Online Demo
+
+Μπορείτε να δείτε το project ζωντανά εδώ: https://katerinazarkada.github.io/bombay-project/ 
 
 
